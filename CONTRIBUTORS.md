@@ -20,5 +20,5 @@ This file lists all students contributing Homework 1
 
 ## Student contributors: 
 <!-- Students: Add your entries below this line! -->
-
+- **[Michael Anthony Rodriguez]** (GitHub: [Michael22424]) | [Mononoke the Movie: Chapter III - The Curse of the Serpent]
 
